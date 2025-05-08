@@ -27,7 +27,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/formula.png" alt="Formula image" width="500" />
+        <img src="./images/Screenshot 2025-05-08 12.38.59.png" alt="Formula image" width="500" />
       </div>
       <div class="page-content-answer">
         <div id="answer">

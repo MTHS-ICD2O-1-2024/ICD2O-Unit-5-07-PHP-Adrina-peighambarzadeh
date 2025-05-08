@@ -27,7 +27,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/formula.png" alt="Formula image" width="500" />
+        <img src="./images/Screenshot 2025-05-08 12.38.59.png" alt="Formula image" width="500" />
       </div>
       <br />
       <div class="page-content-guide">Enter the number that is going to be n:</div>
